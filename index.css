@@ -1,0 +1,17 @@
+#div{
+    display: flex;
+    justify-content: center;
+
+}
+
+#div input{
+    height: 5vh;
+    width: 12vw;
+    text-align: center;
+    background-color:bisque;
+    font-size: 20px;
+    color: rgb(20, 18, 17);
+    border-radius: 12px;
+
+}
+
